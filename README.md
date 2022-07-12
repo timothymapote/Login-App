@@ -5,10 +5,13 @@
 
 https://user-images.githubusercontent.com/107364882/178496561-22815dab-e879-4437-89f1-6a3962aeaf50.mp4
 
-Project Details:
+What ive learned from this app:
 
 • Fundamentals of Swift
 
 • Fundamentals of Swift UI
 
-• Tools: Xcode
+• Xcode
+
+Project Description:
+Login idea that can use on any app especially shopping, e-commerce, and food app.
