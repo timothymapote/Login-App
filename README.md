@@ -10,4 +10,5 @@ https://user-images.githubusercontent.com/107364882/178496561-22815dab-e879-4437
 What ive learn while doing this app is:
 
 • Fundamentals of Swift
+
 • Fundamentals of Swift UI
