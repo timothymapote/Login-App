@@ -5,8 +5,10 @@
 
 https://user-images.githubusercontent.com/107364882/178496561-22815dab-e879-4437-89f1-6a3962aeaf50.mp4
 
-What ive learn while doing this app is:
+Project Details:
 
 • Fundamentals of Swift
 
 • Fundamentals of Swift UI
+
+• Tools: Xcode
